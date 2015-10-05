@@ -52,7 +52,7 @@ For more information, see [Dynamic Outgoing IP Addresses](/docs/articles/sites/c
 
 ## Maintenance Mode
 
-Drupal's built-in Maintenance Mode works and can be customized; clear caches when toggling.
+Drupal and WordPress built-in Maintenance Mode works and can be customized; clear caches when toggling.
 
 ​Pantheon may send a generic Maintenance Mode message during platform problems; this message cannot be customized.
 
