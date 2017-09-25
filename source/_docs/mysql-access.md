@@ -121,4 +121,4 @@ No, only one database per site is provided and create privileges are not granted
 
 #### Can I put unique tables in the Pantheon database?
 
-Pantheon places no restrictions on the contents of the database.
+No. Pantheon places no restrictions on the contents of the database.
